@@ -1,4 +1,4 @@
-=== Ban Naver ===
+=== Naver Naver ===
 Contributors: hideokamoto
 Tags: spam
 Requires at least: 4.6.1
