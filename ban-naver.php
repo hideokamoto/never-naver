@@ -14,6 +14,9 @@
 
 add_filter( 'the_content', 'ban_naver');
 function ban_naver( $content ) {
+	if (is_feed()) {
+		return $content;
+	}
 	$ban_word = __( '※このページ内の画像をNAVERまとめに転載することを禁止します。', 'ban-naver');
 	$ban_word = esc_html( apply_filters( 'ban_word_text', $ban_word ) );
 	$ban_word = "<small><b>{$ban_word}</b></small>";
