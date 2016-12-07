@@ -30,6 +30,7 @@ http://kitamocchi.com/2016/12/06/20878/
 
 = 機能が足りない！ =
 プルリクエストください。
+https://github.com/hideokamoto/ban-naver/pulls
 
 == Changelog ==
 

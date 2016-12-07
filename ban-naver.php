@@ -1,17 +1,16 @@
 <?php
 /**
  * Plugin Name:     Ban Naver
- * Plugin URI:      PLUGIN SITE HERE
- * Description:     PLUGIN DESCRIPTION HERE
- * Author:          YOUR NAME HERE
- * Author URI:      YOUR SITE HERE
+ * Plugin URI:      https://github.com/hideokamoto/ban-naver/
+ * Description:     あなたのブログ記事に「このページ内の画像をNAVERまとめに転載することを禁止します。」というテキストを追加します。
+ * Author:          hideokamoto
+ * Author URI:      https://github.com/hideokamoto/ban-naver/
  * Text Domain:     ban-naver
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         0.0.1
  *
  * @package         Ban_Naver
  */
-
 
 add_filter( 'the_content', 'ban_naver');
 function ban_naver( $content ) {
