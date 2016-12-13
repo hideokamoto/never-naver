@@ -1,4 +1,4 @@
-=== Naver Naver ===
+=== Never Naver ===
 Contributors: hideokamoto
 Tags: spam
 Requires at least: 4.6.1
@@ -7,7 +7,7 @@ Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-あなたのブログ記事に「このページ内の画像をNAVERまとめに転載することを禁止します。」というテキストを追加します。NAVERまとめに画像とか使われたくない人はどうぞ。
+Show text for NAVER 'do not copy images'.
 
 == Description ==
 

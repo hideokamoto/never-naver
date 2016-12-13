@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name:     Naver Naver
+ * Plugin Name:     Never Naver
  * Plugin URI:      https://github.com/hideokamoto/ban-naver/
- * Description:     あなたのブログ記事に「このページ内の画像をNAVERまとめに転載することを禁止します。」というテキストを追加します。
+ * Description:     Show text for NAVER 'do not copy images'.
  * Author:          hideokamoto
  * Author URI:      https://github.com/hideokamoto/naver-naver/
  * Text Domain:     naver-naver
